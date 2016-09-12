@@ -1,0 +1,26 @@
+[
+  {
+    "_id" : "5667483eb292c9592888faac",
+    "view" : "DBpedia",
+    "user" : "new_user",
+    "plugins" : "[ \"sparqplug-in-text\", \"sparqplug-out-json\", sparqplug-out-table\" ]"
+  },
+  {
+    "_id" : "5667485cb292c9f82788faac",
+    "view" : "Furman",
+    "user" : "new_user",
+    "plugins" : "[\"sparqplug-in-text\",\"sparqplug-out-json\",\"sparqplug-out-table\",\"sparqplug-detail-history\",\"sparqplug-detail-saved\",\"sparqplug-detail-object\"]"
+  },
+  {
+    "_id" : "566748a9b292c9fa2788faaa",
+    "view" : "Furman",
+    "user" : "other_guy",
+    "plugins" : "[\"sparqplug-in-text\",\"sparqplug-out-json\",\"sparqplug-out-table\",\"sparqplug-detail-history\"]"
+  },
+  {
+    "_id" : "566748e4b292c9fb2788faad",
+    "view" : "UK",
+    "user" : "other_guy",
+    "plugins" : "[\"sparqplug-in-text\",\"sparqplug-out-json\",\"sparqplug-out-table\"]"
+  }
+]

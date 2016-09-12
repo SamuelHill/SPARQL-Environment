@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Initialize</title>
+	<link rel="stylesheet" type="text/css" href="webroot/css/bootstrap.css"/>
+	<link rel="stylesheet" type="text/css" href="webroot/css/bootstrap-adjust.css"/>
+	<script type="text/javascript" src="webroot/js/jquery-1.10.2.js"></script>
+	<script type="text/javascript" src="webroot/js/bootstrap.js"></script>
+</head>
+<body>
+	<div id="main-container">
+	<div id="content" class="container">
+	<div id="page-container" class="row">
+	<div id="page-content" class="col-sm-12">
+    <h1 style="text-align: center;">Initialize Environment</h1>
+	  <div class="row" style="padding-top: 30px;">
+      <div class="col-sm-3"></div>
+      <div class="col-sm-6" style="text-align: center;">
+        <form action="setup/setup.php" method="post" name="setup_form" id="setup_form">
+          <div class="form-group">
+            <label for="build">Which configuration would you like?</label>
+            <select name="build" class="form-control">
+              <option>schema</option>
+              <option>schema + data</option>
+            </select>
+          </div>
+          <div class="row">
+          <div class="col-xs-3"></div>
+            <div class="col-xs-6">
+              <input type="submit" name="create" class="form-control btn btn-primary" value="Setup">
+            </div>
+            <div class="col-xs-3"></div>
+          </div>
+        </form>
+      </div>
+      <div class="col-sm-3"></div>
+    </div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+</body>
+</html>

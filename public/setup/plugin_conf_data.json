@@ -1,0 +1,31 @@
+[
+  {
+    "_id" : "566741cdb292c9f82788faab",
+    "config" : "\"css\":\"sparqplug.detail.object.css\",\r\n\"js\":\"sparqplug.detail.object.js\"",
+    "urn" : "sparqplug-detail-object"
+  },
+  {
+    "_id" : "56674236b292c96a2888faa9",
+    "config" : "\"css\":\"sparqplug.detail.saved.css\",\r\n\"js\":\"sparqplug.detail.saved.js\"",
+    "urn" : "sparqplug-detail-saved"
+  },
+  { "_id" : "56674281b292c9f92788faa9",
+    "config" : "\"css\":\"sparqplug.out.json.css\",\r\n\"js\":\"sparqplug.out.json.js\"",
+    "urn" : "sparqplug-out-json"
+  },
+  {
+    "_id" : "56674305b292c90e2888faac",
+    "config" : "\"css\":\"sparqplug.detail.history.css\",\r\n\"js\":\"sparqplug.detail.history.js\"",
+    "urn" : "sparqplug-detail-history"
+  },
+  {
+    "_id" : "56674353b292c9602d88faa9",
+    "config" : "\"css\":\"sparqplug.in.text.css\",\r\n\"js\":\"sparqplug.in.text.js\"",
+    "urn" : "sparqplug-in-text"
+  },
+  {
+    "_id" : "56674388b292c9fb2788faac",
+    "config" : "\"css\":\"sparqplug.out.table.css\",\r\n\"js\":\"sparqplug.out.table.js\"",
+    "urn" : "sparqplug-out-table"
+  }
+]
